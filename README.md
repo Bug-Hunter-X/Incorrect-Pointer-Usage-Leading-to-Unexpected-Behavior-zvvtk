@@ -1,0 +1,3 @@
+# Incorrect Pointer Usage Leading to Unexpected Behavior
+
+This repository demonstrates a simple C program that exhibits unexpected behavior due to incorrect pointer usage. The program initializes an integer variable, creates a pointer to it, modifies the value through the pointer, and then prints the modified value. While this example might seem straightforward, it highlights a potential problem: the possibility of unexpected memory access or manipulation depending on pointer use.
